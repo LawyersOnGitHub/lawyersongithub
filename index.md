@@ -1,3 +1,9 @@
+# How Can Lawyers on GitHub Self-Organize?
+
+check out [this proposal](https://lawyersongithub.github.io/lawyersongithub/proposal) and comment or jump in [here](https://github.com/dpp/lawyersongithub/issues/110).
+
+Below please find the nice page [forked from dpp/lawyersongithub](https://github.com/dpp/lawyersongithub):
+
 # Lawyers on GitHub
 
 A club full of lawyers who also have GitHub accounts. 

@@ -2,7 +2,7 @@
 
 ## Context
 
-Good news: Thanks to [https://github.com/dpp](https://github.com/dpp) there is a [Lawyers on GitHub](https://github.com/dpp/lawyersongithub) directory!  Bad news: It remans unattended for long period of time and therefor does not function as an ongoing resource.  
+Good news: Thanks to [https://github.com/dpp](https://github.com/dpp) there is a [Lawyers on GitHub](https://github.com/dpp/lawyersongithub) directory!  Bad news: It remans unattended for long period of time and therefor does not function as an ongoing resource.  Here is a nice [readable web-friendly](https://lawyersongithub.github.io/lawyersongithub/proposal) version.
 
 ## Fix
 

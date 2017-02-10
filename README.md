@@ -1,4 +1,4 @@
-# How Can [Lawyers on GitHub](https://github.com/dpp/lawyersongithub) Self-Organize Their Own Directory?
+# [Lawyers on GitHub](https://github.com/dpp/lawyersongithub) Self-Organizing Directory?
 
 ## Context
 

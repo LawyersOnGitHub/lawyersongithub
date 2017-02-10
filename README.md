@@ -8,7 +8,7 @@ Good news: Thanks to [https://github.com/dpp](https://github.com/dpp) there is a
 
 If a lot of lawyers on GitHub had the power to merge pull requests, we'd be in good shape because somebody would likely take a look in a timely manner and merge or otherwise manage the requests.  But how can a lot of people have the authorization to merge pull requests to add names of new lawyers on GitHub who seek to be included on the list here "[Index](https://github.com/dpp/lawyersongithub/blob/master/index.md)"? 
 
-Simple answer is to include all user currently listed or with [pending pull requests](https://github.com/dpp/lawyersongithub/pulls) to be listed on "[Index](https://github.com/ComputationalLaw/lawyersongithub/blob/master/index.md)" to a [team](https://help.github.com/articles/creating-a-team/) with [rights to merge pull requests](https://help.github.com/articles/setting-up-teams/).  
+Simple answer is to include all user currently listed or with [pending pull requests](https://github.com/dpp/lawyersongithub/pulls) to be listed on "[Index](https://github.com/dpp/lawyersongithub/blob/master/index.md)" to a [team](https://help.github.com/articles/creating-a-team/) with [rights to merge pull requests](https://help.github.com/articles/setting-up-teams/).  
 
 ## Problem with Fix
 
@@ -28,7 +28,7 @@ I found info and a few ways to grab that info programatically here:
 
 * **Ideal outcome**: the user who owns [dpp/lawyersongithub](https://github.com/dpp) and/or the user he has provided authorizations to help out (https://github.com/adelevie) takes the requested action (or maybe some other action to keep things moving).  
 
-* **Suboptimal** (but fine) **outcome**: the users who own or help with the repo [dpp/lawyersongithub](https://github.com/dpp) decide they don't *really* have time/attention to curate this list and update the [index on the existing repo](https://github.com/dpp/lawyersongithub/blob/master/index.md) to point at the [correspondng file in the forked repo](https://github.com/ComputationalLaw/lawyersongithub/blob/master/index.md).  In this case, I'll take a turn at curating while seeking a person or group to pass it onward to on a longer term basis. 
+* **Suboptimal** (but fine) **outcome**: the users who own or help with the repo [dpp/lawyersongithub](https://github.com/dpp) decide they don't *really* have time/attention to curate this list and update the [index on the existing repo](https://github.com/dpp/lawyersongithub/blob/master/index.md) to point at the [correspondng file in the forked repo](https://github.com/dpp/lawyersongithub/blob/master/index.md).  In this case, I'll take a turn at curating while seeking a person or group to pass it onward to on a longer term basis. 
 
 * **Not Fine Outcome**: Continued piling up of pull requests or we have a temporary reduction of backlog followed by continued pile up of pull requests.  So... let's take a moment to hack a more endurng fix, ok?
 
